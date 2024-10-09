@@ -1,24 +1,8 @@
-# STARTER-jpa01
+# jpa02-jonathanzhang2027
 
-* TODO: Change the title of this README 
-  in the text `# STARTER-jpa01` above
-  to match the name of your repo, i. e., `jpa01-yourgithubid`, then delete
-  this TODO item.
+Repo: https://github.com/ucsb-cs156-f24/jpa02-jonathanzhang2027
 
-* TODO: Correct the links to repo below, 
-  then delete this TODO.  Replace it with 
-  a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-s24/jpa01-cgaucho
-
-Repo: https://ucsb-cs156-s24/STARTER-jpa01
-
-* TODO: Correct the "deployed at" link to app on Dokku
-  then delete this TODO.  Replace it with 
-  a link to your running app on Dokku, e.g.
-  https://jpa01-cgaucho.dokku-14.cs.ucsb.edu
-
-
-Deployed at: https://jpa01-replace-me.dokku-xx.cs.ucsb.edu
+Deployed at: https://jpa02-jonathanzhang2027.dokku-11.cs.ucsb.edu
 
 
 # About this repo
@@ -42,7 +26,7 @@ This is a minimal "Hello World" type webapp built with Spring Boot.
 # Sources
 
 The code in this repo is in support of
-jpa01 for Fall 2022 for CMPSC 156.
+jpa02 for Fall 2024 for CMPSC 156.
 
 The code in this repo is based in part on the tutorial here:
 <https://spring.io/guides/gs/spring-boot/>, and the code here in the
@@ -56,7 +40,7 @@ below.
 # Modifications from the original
 
 * Java 21 support
-  * Converting `pom.xml` to use Java 17
+  * Converting `pom.xml` to use Java 21
 * JUnit 5
   * Converting test code to use JUnit 5 instead of JUnit 4  
 * Dokku Support
@@ -71,5 +55,4 @@ below.
     the test cases, compute jacoco report,
     upload code coverage reports to Codecov.io,
     and produce pitest artifacts.
-
 
