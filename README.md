@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-f24/jpa02-jonathanzhang2027
 
-Deployed at: https://jpa01-replace-me.dokku-xx.cs.ucsb.edu
+Deployed at: [https://jpa02-jonathanzhang2027.dokku-11.cs.ucsb.edu/]([url](https://jpa02-jonathanzhang2027.dokku-11.cs.ucsb.edu/))
 
 
 # About this repo
